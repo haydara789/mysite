@@ -1,0 +1,33 @@
+/* body {
+
+   background-image: url(/img/Germany.jpg);
+   background-repeat: no-repeat;
+
+} */
+
+h1 {
+
+  color: blue;
+  text-align: center;
+  padding: 0;
+  /*     border: 2px solid Violet;
+ */
+  /*     margin-right: 100px;
+    margin-left: 100px;
+ */
+}
+
+p {
+  border: 2px solid rgb(116, 97, 97);
+
+  /*     margin-top: 100px;
+ */
+  /*  margin-bottom: 100px; */
+  margin-right: 150px;
+  /*     margin-left: 80px;
+ */
+  display: inline-block;
+  word-wrap: normal;
+  /*    background-color: lightyellow;
+ */
+}
